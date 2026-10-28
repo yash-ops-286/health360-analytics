@@ -35,3 +35,8 @@ Health360 is an interactive healthcare analytics platform designed to uncover pa
    ```bash
    git clone <YOUR_GITHUB_REPO_URL>
    cd health360-flask
+
+   ## Live Links & Deliverables
+- **Tableau Public Story**: [Health360 Executive Story](https://public.tableau.com/views/Health360ComprehensiveHealthcareRiskAnalysis_17932108388850/Health360ExecutiveStory)
+- **GitHub Repository**: https://github.com/yash-ops-286/health360-analytics
+- **Author**: Yash Kumar

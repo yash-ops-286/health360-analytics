@@ -4,8 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    # Pass your live Tableau story embed URL to the frontend template
-    tableau_url = "https://public.tableau.com/views/Health360ComprehensiveHealthcareRiskAnalysis/Health360ExecutiveStory"
+    tableau_url = "https://public.tableau.com/views/Health360ComprehensiveHealthcareRiskAnalysis_17932108388850/Health360ExecutiveStory"
     return render_template('index.html', tableau_url=tableau_url)
 
 if __name__ == '__main__':
